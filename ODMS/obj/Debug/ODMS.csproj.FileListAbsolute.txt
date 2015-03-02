@@ -1,1 +1,10 @@
 c:\users\vip\documents\visual studio 2013\Projects\C#\WinGames\ODMS\ODMS\bin\Debug\ODMS.exe.config
+F:\Databases\my\ODMS\bin\Debug\ODMS.exe.config
+F:\Databases\my\ODMS\bin\Debug\ODMS.exe
+F:\Databases\my\ODMS\bin\Debug\ODMS.pdb
+F:\Databases\my\ODMS\obj\Debug\ODMS.csprojResolveAssemblyReference.cache
+F:\Databases\my\ODMS\obj\Debug\ODMS.Login.resources
+F:\Databases\my\ODMS\obj\Debug\ODMS.Properties.Resources.resources
+F:\Databases\my\ODMS\obj\Debug\ODMS.csproj.GenerateResource.Cache
+F:\Databases\my\ODMS\obj\Debug\ODMS.exe
+F:\Databases\my\ODMS\obj\Debug\ODMS.pdb
