@@ -8,3 +8,4 @@ F:\Databases\my\ODMS\obj\Debug\ODMS.Properties.Resources.resources
 F:\Databases\my\ODMS\obj\Debug\ODMS.csproj.GenerateResource.Cache
 F:\Databases\my\ODMS\obj\Debug\ODMS.exe
 F:\Databases\my\ODMS\obj\Debug\ODMS.pdb
+F:\Databases\my\ODMS\obj\Debug\ODMS.Main.Mainfrm.resources

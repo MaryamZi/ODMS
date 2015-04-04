@@ -23,6 +23,7 @@ namespace ODMS.Admin.User
 
         public bool addToDB(User newuser)
         {
+
             return true;
         }
 
